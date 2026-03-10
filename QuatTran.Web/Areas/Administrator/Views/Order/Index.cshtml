@@ -1,0 +1,57 @@
+﻿@model IEnumerable<QuatTran.Application.DTOs.OrderDto>
+@{
+    ViewBag.Title = "Quản lý đơn hàng";
+}
+
+<h2 class="mb-4">📦 Quản lý đơn hàng</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Không có đơn hàng nào.</div>
+}
+else
+{
+    <table class="table table-bordered table-striped">
+        <thead class="table-light">
+            <tr>
+                <th>Mã đơn</th>
+                <th>Khách hàng</th>
+                <th>Ngày đặt</th>
+                <th>Trạng thái</th>
+                <th>Tổng tiền</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var o in Model)
+            {
+                <tr>
+                    <td>@o.OrderId</td>
+                    <td>
+                        <strong>@o.FullName</strong><br />
+                        <small>@o.Phone</small><br />
+                        <small>@o.Address</small>
+                    </td>
+                    <td>@o.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+                    <td>
+                        @{
+                            var badgeClass = "secondary";
+                            switch (o.ShippingStatus)
+                            {
+                                case "Chờ xử lý": badgeClass = "warning"; break;
+                                case "Đang giao hàng": badgeClass = "primary"; break;
+                                case "Hoàn tất": badgeClass = "success"; break;
+                                case "Đã hủy": badgeClass = "danger"; break;
+                            }
+                        }
+                        <span class="badge bg-@badgeClass">@o.ShippingStatus</span>
+                    </td>
+                    <td>@o.TotalAmount.ToString("N0") VNĐ</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@o.OrderId" class="btn btn-sm btn-outline-info">Chi tiết</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<QuatTran.Application.DTOs.CategoryDto>
+
+<p>
+    <a asp-area="Administrator" asp-controller="Category" asp-action="Create" class="btn btn-primary">
+        Thêm sản phẩm
+    </a>
+
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+			<th>Mã danh mục</th>
+            <th>Tên danh mục</th>
+            <th>Hành động</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CategoryId</td>
+                <td>@item.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.CategoryId" class="btn btn-warning btn-sm">Sửa</a>
+                    <a asp-action="Delete" asp-route-id="@item.CategoryId" class="btn btn-danger btn-sm">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

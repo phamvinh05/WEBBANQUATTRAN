@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Bảng điều khiển quản trị";
+}
+
+<div class="container-fluid mt-4">
+    <h2 class="mb-4">Bảng điều khiển quản trị</h2>
+
+    <div class="row g-3">
+        <!-- Card 1 -->
+        <div class="col-md-3">
+            <div class="card border-primary shadow-sm h-100">
+                <div class="card-body">
+                    <h6 class="card-title text-uppercase text-muted">Tổng sản phẩm</h6>
+                    <h3 class="fw-bold text-primary">@ViewBag.TotalProducts</h3>
+                </div>
+                <div class="card-footer bg-transparent border-top-0">
+                    <a asp-area="Administrator" asp-controller="Product" asp-action="Index" class="btn btn-sm btn-outline-primary w-100">
+                        Quản lý sản phẩm
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="col-md-3">
+            <div class="card border-success shadow-sm h-100">
+                <div class="card-body">
+                    <h6 class="card-title text-uppercase text-muted">Tổng đơn hàng</h6>
+                    <h3 class="fw-bold text-success">@ViewBag.TotalOrders</h3>
+                </div>
+                <div class="card-footer bg-transparent border-top-0">
+                    <a asp-area="Administrator" asp-controller="Order" asp-action="Index" class="btn btn-sm btn-outline-success w-100">
+                        Quản lý đơn hàng
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="col-md-3">
+            <div class="card border-warning shadow-sm h-100">
+                <div class="card-body">
+                    <h6 class="card-title text-uppercase text-muted">Khách hàng</h6>
+                    <h3 class="fw-bold text-warning">@ViewBag.TotalUsers</h3>
+                </div>
+                <div class="card-footer bg-transparent border-top-0">
+                    <a asp-area="Administrator" asp-controller="User" asp-action="Index" class="btn btn-sm btn-outline-warning w-100">
+                        Quản lý người dùng
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <hr class="my-4" />
+</div>

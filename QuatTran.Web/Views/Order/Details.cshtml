@@ -1,0 +1,47 @@
+﻿@model QuatTran.Application.DTOs.OrderDto
+
+@{
+    ViewData["Title"] = "Chi tiết đơn hàng";
+}
+
+<h2>Chi tiết đơn hàng</h2>
+
+<div class="mb-3">
+    <strong>Mã đơn hàng:</strong> @Model.OrderId<br />
+    <strong>Ngày đặt:</strong> @Model.OrderDate.ToString("dd/MM/yyyy")<br />
+    <strong>Người nhận:</strong> @Model.FullName<br />
+    <strong>Số điện thoại:</strong> @Model.Phone<br />
+    <strong>Địa chỉ giao hàng:</strong> @Model.Address<br />
+    <strong>Trạng thái:</strong> @Model.ShippingStatus<br />
+</div>
+
+@if (Model.Items != null && Model.Items.Any())
+{
+    <table class="table table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Giá</th>
+                <th>Số lượng</th>
+                <th>Tổng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Items)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.UnitPrice.ToString("N0") VNĐ</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.UnitPrice * item.Quantity).ToString("N0") VNĐ</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <h4 class="text-end">Tổng tiền: @Model.TotalAmount.ToString("N0") VNĐ</h4>
+}
+else
+{
+    <p class="alert alert-info">Đơn hàng không có sản phẩm.</p>
+}

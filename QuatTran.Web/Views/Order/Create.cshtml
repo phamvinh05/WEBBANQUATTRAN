@@ -1,0 +1,26 @@
+﻿@model QuatTran.Application.DTOs.OrderDto
+
+@{
+    ViewData["Title"] = "Xác nhận đơn hàng";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="FullName" class="form-label">Họ tên người nhận</label>
+        <input asp-for="FullName" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label">Địa chỉ giao hàng</label>
+        <input asp-for="Address" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <label asp-for="Phone" class="form-label">Số điện thoại</label>
+        <input asp-for="Phone" class="form-control" required />
+    </div>
+    <div class="mb-3">
+        <strong>Tổng tiền:</strong> @Model.TotalAmount.ToString("N0") VNĐ
+    </div>
+    <button type="submit" class="btn btn-primary">Đặt hàng</button>
+</form>

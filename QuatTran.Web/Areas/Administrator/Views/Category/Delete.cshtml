@@ -1,0 +1,20 @@
+﻿@model QuatTran.Application.DTOs.CategoryDto
+
+@{
+    ViewData["Title"] = "Xóa danh mục";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>Bạn có chắc chắn muốn xóa danh mục này?</h3>
+<div>
+    <h4>@Model.CategoryId</h4>
+    <p>@Model.Name</p>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="CategoryId" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>
+<a asp-action="Index" class="btn btn-secondary mt-3">Quay lại danh sách danh mục</a>

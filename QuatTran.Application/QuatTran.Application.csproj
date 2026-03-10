@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuatTran.Domain\QuatTran.Domain.csproj" />
+    <ProjectReference Include="..\QuatTran.Infrastructure\QuatTran.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

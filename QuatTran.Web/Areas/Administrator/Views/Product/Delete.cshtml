@@ -1,0 +1,17 @@
+﻿@model QuatTran.Application.DTOs.ProductDto
+
+@{
+    ViewData["Title"] = "Xóa sản phẩm";
+}
+
+<h1>Xóa sản phẩm</h1>
+
+<div class="alert alert-danger">
+    Bạn có chắc chắn muốn xóa sản phẩm <strong>@Model.ProductName</strong>?
+</div>
+
+<form asp-action="Delete" asp-route-id="@Model.ProductId" method="post">
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>
+

@@ -1,0 +1,26 @@
+﻿@model QuatTran.Application.DTOs.UserDto
+@{
+    ViewData["Title"] = "Cập nhật thông tin";
+}
+<h2>Cập nhật thông tin cá nhân</h2>
+
+<form asp-action="EditProfile" method="post">
+    <input type="hidden" asp-for="UserId" />
+    <div class="form-group">
+        <label asp-for="FullName">Họ tên</label>
+        <input asp-for="FullName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="Phone">Số điện thoại</label>
+        <input asp-for="Phone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Address">Địa chỉ</label>
+        <input asp-for="Address" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Cập nhật</button>
+</form>

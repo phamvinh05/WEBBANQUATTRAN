@@ -1,0 +1,80 @@
+﻿@model QuatTran.Application.DTOs.UserDto
+
+<h2>Xin chào, @Model.FullName</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+}
+
+<div class="mb-3">
+    <strong>Email:</strong> @Model.Email
+</div>
+<div class="mb-3">
+    <strong>Điện thoại:</strong> @Model.Phone
+</div>
+<div class="mb-3">
+    <strong>Địa chỉ:</strong> @Model.Address
+</div>
+
+<a asp-action="EditProfile" class="btn btn-primary">Chỉnh sửa thông tin</a>
+<a asp-action="ChangePassword" class="btn btn-warning">Đổi mật khẩu</a>
+<a asp-action="Logout" class="btn btn-secondary">Đăng xuất</a>
+
+<h3 class="mt-4">Giỏ hàng của bạn</h3>
+@if (ViewBag.CartItems != null && ((IEnumerable<QuatTran.Application.DTOs.CartItemDto>)ViewBag.CartItems).Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.CartItems)
+            {
+                <tr>
+                    <td>@item.ProductName</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.ProductPrice.ToString("N0")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Giỏ hàng trống.</p>
+}
+
+<h3 class="mt-4">Đơn hàng của bạn</h3>
+@if (ViewBag.Orders != null && ((IEnumerable<QuatTran.Application.DTOs.OrderDto>)ViewBag.Orders).Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Mã đơn</th>
+                <th>Ngày đặt</th>
+                <th>Tổng tiền</th>
+                <th>Trạng thái</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in ViewBag.Orders)
+            {
+                <tr>
+                    <td>@order.OrderId</td>
+                    <td>@order.OrderDate.ToShortDateString()</td>
+                    <td>@order.TotalAmount.ToString("N0")</td>
+                    <td>@order.ShippingStatus</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Chưa có đơn hàng.</p>
+}

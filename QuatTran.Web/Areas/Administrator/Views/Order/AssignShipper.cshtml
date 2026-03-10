@@ -1,0 +1,23 @@
+﻿@model QuatTran.Application.DTOs.OrderDto
+@{
+    ViewData["Title"] = "Gán Shipper";
+    var shippers = ViewBag.Shippers as IEnumerable<QuatTran.Application.DTOs.ShipperDto>;
+}
+<h2>Gán Shipper</h2>
+
+<form asp-action="AssignShipper" method="post">
+    <input type="hidden" name="id" value="@Model.OrderId" />
+
+    <div class="mb-3">
+        <label class="form-label">Shipper</label>
+        <select name="shipperId" class="form-select">
+            <option value="">-- Chọn shipper --</option>
+            @foreach (var s in shippers)
+            {
+                <option value="@s.ShipperId">@s.CompanyName - @s.Phone</option>
+            }
+        </select>
+    </div>
+    <button type="submit" class="btn btn-success">Lưu</button>
+    <a asp-action="Details" asp-route-id="@Model.OrderId" class="btn btn-secondary">Hủy</a>
+</form>

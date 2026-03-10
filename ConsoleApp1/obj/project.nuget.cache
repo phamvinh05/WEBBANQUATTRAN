@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmp51TqDN0w=",
+  "success": true,
+  "projectFilePath": "D:\\vs studio\\BTL\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinh\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

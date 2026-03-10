@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs studio\\BTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{853641DA-2644-42C3-9A61-88FAC1F91302}|QuatTran.Web\\QuatTran.Web.csproj|d:\\vs studio\\btl\\quattran.web\\areas\\administrator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{853641DA-2644-42C3-9A61-88FAC1F91302}|QuatTran.Web\\QuatTran.Web.csproj|solutionrelative:quattran.web\\areas\\administrator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853641DA-2644-42C3-9A61-88FAC1F91302}|QuatTran.Web\\QuatTran.Web.csproj|d:\\vs studio\\btl\\quattran.web\\areas\\administrator\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{853641DA-2644-42C3-9A61-88FAC1F91302}|QuatTran.Web\\QuatTran.Web.csproj|solutionrelative:quattran.web\\areas\\administrator\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853641DA-2644-42C3-9A61-88FAC1F91302}|QuatTran.Web\\QuatTran.Web.csproj|d:\\vs studio\\btl\\quattran.web\\areas\\administrator\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{853641DA-2644-42C3-9A61-88FAC1F91302}|QuatTran.Web\\QuatTran.Web.csproj|solutionrelative:quattran.web\\areas\\administrator\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853641DA-2644-42C3-9A61-88FAC1F91302}|QuatTran.Web\\QuatTran.Web.csproj|d:\\vs studio\\btl\\quattran.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{853641DA-2644-42C3-9A61-88FAC1F91302}|QuatTran.Web\\QuatTran.Web.csproj|solutionrelative:quattran.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FACE7A8-F050-4372-8592-1A8E2FC5F2D7}|ConsoleApp2\\ConsoleApp2.csproj|d:\\vs studio\\btl\\consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FACE7A8-F050-4372-8592-1A8E2FC5F2D7}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\vs studio\\BTL\\QuatTran.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuatTran.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\vs studio\\BTL\\QuatTran.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuatTran.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T13:40:26.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\vs studio\\BTL\\QuatTran.Web\\Areas\\Administrator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "QuatTran.Web\\Areas\\Administrator\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\vs studio\\BTL\\QuatTran.Web\\Areas\\Administrator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "QuatTran.Web\\Areas\\Administrator\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:58:35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\vs studio\\BTL\\QuatTran.Web\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "QuatTran.Web\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\vs studio\\BTL\\QuatTran.Web\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "QuatTran.Web\\Areas\\Administrator\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T12:44:19.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleApp2.csproj",
+              "DocumentMoniker": "D:\\vs studio\\BTL\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ToolTip": "D:\\vs studio\\BTL\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeToolTip": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T08:29:25.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\vs studio\\BTL\\QuatTran.Web\\Areas\\Administrator\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "QuatTran.Web\\Areas\\Administrator\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\vs studio\\BTL\\QuatTran.Web\\Areas\\Administrator\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "QuatTran.Web\\Areas\\Administrator\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-09T08:13:31.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.targets",
+              "ViewState": "AgIAALgAAAAAAAAAAAAIwMQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-09T08:02:20.351Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

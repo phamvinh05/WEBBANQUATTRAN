@@ -1,0 +1,66 @@
+﻿@model QuatTran.Application.DTOs.OrderDto
+@{
+    ViewBag.Title = "Chi tiết đơn hàng";
+}
+
+<h2>📄 Chi tiết đơn hàng #@Model.OrderId</h2>
+
+<div class="mb-3">
+    <p><strong>Khách hàng:</strong> @Model.FullName</p>
+    <p><strong>Địa chỉ:</strong> @Model.Address</p>
+    <p><strong>Điện thoại:</strong> @Model.Phone</p>
+    <p><strong>Ngày đặt:</strong> @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+    <p><strong>Tổng tiền:</strong> @Model.TotalAmount.ToString("N0") VNĐ</p>
+	<p>
+		<strong>Trạng thái giao hàng:</strong>
+		<span class="badge bg-@(Model.ShippingStatus == "Chờ xử lý" ? "warning" : Model.ShippingStatus == "Đang giao hàng" ? "primary" : Model.ShippingStatus == "Hoàn tất" ? "success" : "danger")">
+			@Model.ShippingStatus
+		</span>
+	</p>
+	<p><strong>Gán Shipper:</strong> @Model.ShipperId</p>
+</div>
+
+<h4>Trạng thái đơn hàng</h4>
+<form asp-action="UpdateStatus" method="post" class="mb-4">
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="id" value="@Model.OrderId" />
+    <div class="input-group" style="max-width:300px;">
+        <select name="status" class="form-select">
+            <option value="Chờ xử lý" selected="@(Model.ShippingStatus == "Chờ xử lý")">Chờ xử lý</option>
+            <option value="Đang giao hàng" selected="@(Model.ShippingStatus == "Đang giao hàng")">Đang giao hàng</option>
+            <option value="Hoàn tất" selected="@(Model.ShippingStatus == "Hoàn tất")">Hoàn tất</option>
+            <option value="Đã hủy" selected="@(Model.ShippingStatus == "Đã hủy")">Đã hủy</option>
+        </select>
+        <button type="submit" class="btn btn-primary">Cập nhật</button>
+        <a asp-action="AssignShipper" asp-route-id="@Model.OrderId" class="btn btn-info">Gán Shipper</a>
+    </div>
+</form>
+
+<h4>Danh sách sản phẩm</h4>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Hình ảnh</th>
+            <th>Tên sản phẩm</th>
+            <th>Số lượng</th>
+            <th>Đơn giá</th>
+            <th>Thành tiền</th>
+			<th>Shipper</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Items)
+        {
+            <tr>
+                <td style="width:80px;">
+                    <img src="@item.ProductImageUrl" class="img-thumbnail" style="width:70px;" />
+                </td>
+                <td>@item.ProductName</td>
+                <td>@item.Quantity</td>
+                <td>@item.UnitPrice.ToString("N0") VNĐ</td>
+                <td>@(item.UnitPrice * item.Quantity).ToString("N0") VNĐ</td>
+                <td>@Model.ShipperId</td>
+            </tr>
+        }
+    </tbody>
+</table>

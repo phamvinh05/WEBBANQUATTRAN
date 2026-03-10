@@ -1,0 +1,17 @@
+D:\vs studio\BTL\QuatTran.Application\bin\Debug\net9.0\QuatTran.Application.deps.json
+D:\vs studio\BTL\QuatTran.Application\bin\Debug\net9.0\QuatTran.Application.dll
+D:\vs studio\BTL\QuatTran.Application\bin\Debug\net9.0\QuatTran.Application.pdb
+D:\vs studio\BTL\QuatTran.Application\bin\Debug\net9.0\QuatTran.Domain.dll
+D:\vs studio\BTL\QuatTran.Application\bin\Debug\net9.0\QuatTran.Infrastructure.dll
+D:\vs studio\BTL\QuatTran.Application\bin\Debug\net9.0\QuatTran.Domain.pdb
+D:\vs studio\BTL\QuatTran.Application\bin\Debug\net9.0\QuatTran.Infrastructure.pdb
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\QuatTran.Application.csproj.AssemblyReference.cache
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\QuatTran.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\QuatTran.Application.AssemblyInfoInputs.cache
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\QuatTran.Application.AssemblyInfo.cs
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\QuatTran.Application.csproj.CoreCompileInputs.cache
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\QuatTran.E4D2360D.Up2Date
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\QuatTran.Application.dll
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\refint\QuatTran.Application.dll
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\QuatTran.Application.pdb
+D:\vs studio\BTL\QuatTran.Application\obj\Debug\net9.0\ref\QuatTran.Application.dll

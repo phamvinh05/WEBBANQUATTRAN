@@ -1,0 +1,107 @@
+﻿@model IEnumerable<QuatTran.Application.DTOs.ProductDto>
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    var categories = ViewBag.Categories as IEnumerable<QuatTran.Application.DTOs.CategoryDto>;
+    var keyword = ViewBag.Keyword as string;
+    var selectedCategory = ViewBag.SelectedCategory as int?;
+}
+
+<h2 class="mb-4">Danh sách sản phẩm</h2>
+
+<form method="get" class="row g-2 mb-3">
+    <div class="col-md-3">
+        <select name="categoryId" class="form-select">
+            <option value="">-- Tất cả danh mục --</option>
+            @foreach (var cat in categories)
+            {
+                <option value="@cat.CategoryId" selected="@(selectedCategory == cat.CategoryId)">
+                    @cat.Name
+                </option>
+            }
+        </select>
+    </div>
+    <div class="col-md-5">
+        <input name="keyword" value="@keyword" class="form-control" placeholder="Tìm sản phẩm..." />
+    </div>
+    <div class="col-md-2">
+        <button class="btn btn-primary w-100">Tìm kiếm</button>
+    </div>
+</form>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">Không tìm thấy sản phẩm.</div>
+}
+else
+{
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        @foreach (var p in Model)
+        {
+            <div class="col">
+                <div class="card h-100">
+                    <img src="@p.ImageUrl" class="card-img-top product-img" alt="@p.ProductName" />
+                    <div class="card-body d-flex flex-column">
+                        <h5 class="card-title flex-grow-1">@p.ProductName</h5>
+                        <p class="card-text fw-bold">@p.Price.ToString("N0") VNĐ</p>
+                        <a asp-action="Details" asp-route-id="@p.ProductId" class="btn btn-outline-primary mt-auto">Xem chi tiết</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+<footer class="bg-light py-4 mt-5 border-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <img src="/uploads/logo.png" alt="Logo Công Ty" style="height:40px;">
+                <p class="mt-2">CÔNG TY TNHH QUẠT TRẦN VIỆT NAM</p>
+                <ul class="list-unstyled small">
+                    <li><strong>Địa chỉ:</strong> Số 10 Đường ABC, Quận 1, TP.HCM</li>
+                    <li><strong>MST:</strong> 0123456789 - Ngày cấp: 01/01/2024</li>
+                    <li><strong>Nơi cấp:</strong> Sở KH&ĐT TP.HCM</li>
+                    <li><strong>Số TK:</strong> 123456789 tại BIDV CN Sài Gòn</li>
+                    <li><strong>Điện thoại:</strong> 0909 123 456</li>
+                </ul>
+                <div class="d-flex gap-2 mt-2">
+                    <a href="#" class="text-dark"><i class="fab fa-facebook fa-lg"></i></a>
+                    <a href="#" class="text-dark"><i class="fab fa-youtube fa-lg"></i></a>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <h6>Showroom TP.HCM</h6>
+                <ul class="list-unstyled small">
+                    <li><i class="fas fa-map-marker-alt"></i> 123 Đường X, Quận 3, TP.HCM</li>
+                    <li><i class="fas fa-phone"></i> 0901 234 567</li>
+                </ul>
+                <h6>Chính sách</h6>
+                <ul class="list-unstyled small">
+                    <li><a href="#">Chính sách bảo mật</a></li>
+                    <li><a href="#">Chính sách đổi trả</a></li>
+                    <li><a href="#">Hướng dẫn mua hàng</a></li>
+                </ul>
+            </div>
+
+            <div class="col-md-4 mb-3">
+                <h6>Showroom Hà Nội</h6>
+                <ul class="list-unstyled small">
+                    <li><i class="fas fa-map-marker-alt"></i> 456 Phố Y, Quận Cầu Giấy, Hà Nội</li>
+                    <li><i class="fas fa-phone"></i> 0912 345 678</li>
+                </ul>
+                <h6>Hỗ trợ khách hàng</h6>
+                <ul class="list-unstyled small">
+                    <li><a href="#">Điều khoản dịch vụ</a></li>
+                    <li><a href="#">Chính sách vận chuyển</a></li>
+                    <li><a href="#">Chính sách bảo hành</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+<style>
+    .product-img {
+        max-height: 200px;
+        object-fit: contain;
+    }
+</style>

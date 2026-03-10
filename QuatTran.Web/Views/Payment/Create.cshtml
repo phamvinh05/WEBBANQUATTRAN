@@ -1,0 +1,19 @@
+﻿@model QuatTran.Application.DTOs.PaymentDto
+
+<h2>Chọn phương thức thanh toán</h2>
+
+<form asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="OrderId" />
+    <input type="hidden" asp-for="Amount" />
+
+    <div class="mb-3">
+        <label asp-for="PaymentMethod"></label>
+        <select asp-for="PaymentMethod" class="form-select">
+            <option value="COD">Thanh toán khi nhận hàng</option>
+            <option value="BankTransfer">Chuyển khoản ngân hàng</option>
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Xác nhận thanh toán</button>
+</form>

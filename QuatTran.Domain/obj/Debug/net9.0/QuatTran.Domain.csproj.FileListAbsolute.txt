@@ -1,0 +1,11 @@
+D:\vs studio\BTL\QuatTran.Domain\bin\Debug\net9.0\QuatTran.Domain.deps.json
+D:\vs studio\BTL\QuatTran.Domain\bin\Debug\net9.0\QuatTran.Domain.dll
+D:\vs studio\BTL\QuatTran.Domain\bin\Debug\net9.0\QuatTran.Domain.pdb
+D:\vs studio\BTL\QuatTran.Domain\obj\Debug\net9.0\QuatTran.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs studio\BTL\QuatTran.Domain\obj\Debug\net9.0\QuatTran.Domain.AssemblyInfoInputs.cache
+D:\vs studio\BTL\QuatTran.Domain\obj\Debug\net9.0\QuatTran.Domain.AssemblyInfo.cs
+D:\vs studio\BTL\QuatTran.Domain\obj\Debug\net9.0\QuatTran.Domain.csproj.CoreCompileInputs.cache
+D:\vs studio\BTL\QuatTran.Domain\obj\Debug\net9.0\QuatTran.Domain.dll
+D:\vs studio\BTL\QuatTran.Domain\obj\Debug\net9.0\refint\QuatTran.Domain.dll
+D:\vs studio\BTL\QuatTran.Domain\obj\Debug\net9.0\QuatTran.Domain.pdb
+D:\vs studio\BTL\QuatTran.Domain\obj\Debug\net9.0\ref\QuatTran.Domain.dll

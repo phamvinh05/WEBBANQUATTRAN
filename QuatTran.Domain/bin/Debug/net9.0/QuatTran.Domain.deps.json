@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "QuatTran.Domain/1.0.0": {
+        "runtime": {
+          "QuatTran.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuatTran.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

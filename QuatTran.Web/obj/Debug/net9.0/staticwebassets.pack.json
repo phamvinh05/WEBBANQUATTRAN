@@ -1,0 +1,2529 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\QuatTran.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\QuatTran.Web.jpaibt9ukn.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\card.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\card.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\messages-1.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\messages-2.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\messages-3.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\news-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-1.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\news-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-2.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\news-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-3.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\news-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-4.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\news-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news-5.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\not-found.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\not-found.svg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\product-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-1.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profile-img.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slides-1.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slides-2.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\img\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slides-3.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.amd.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.common.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.esm.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ar.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\be-cyrl.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\be-cyrl.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\be-latn.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\be-latn.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\da.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\da.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\et.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\et.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\fa.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\hu.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\lv.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ms.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ms.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\vi.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\vi.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\apexcharts\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\apexcharts\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chart.cjs",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.cjs"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.cjs.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chart.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chart.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chart.umd.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\chunks\\helpers.segment.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.bar.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.line.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.pie.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.radar.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\controllers\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\controllers\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.adapters.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.animation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.animation.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.animations.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.animations.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.animator.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.animator.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.config.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.config.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.controller.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.controller.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.datasetController.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.element.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.element.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.interaction.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.layouts.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.plugins.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.registry.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.registry.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.scale.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.scale.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.ticks.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\core\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\element.arc.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\element.bar.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\elements\\element.line.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\element.line.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\elements\\element.point.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\element.point.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\elements\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\elements\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers.cjs",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers.cjs"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers.cjs.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.color.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.config.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.core.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.math.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.options.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\index.umd.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\platform\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\platform\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\platform\\platform.base.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\platform\\platform.basic.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\platform\\platform.dom.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.title.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\scales\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.category.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.linear.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.time.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\types.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\types\\animation.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\animation.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\types\\basic.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\basic.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\types\\color.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\color.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\types\\geometric.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\geometric.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\types\\index.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\index.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\types\\layout.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\layout.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\chart.js\\types\\utils.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\chart.js\\types\\utils.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.common.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.esm.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.esm.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.esm.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.esm.min.mjs",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.esm.min.mjs"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.esm.mjs",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.esm.mjs"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.esm.mjs.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.esm.mjs.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.simple.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.simple.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\echarts\\package.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\echarts\\package.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.bubble.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.bubble.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.core.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.core.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.core.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.core.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.core.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.core.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.core.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.core.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.core.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\quill\\quill.snow.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\quill\\quill.snow.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\remixicon\\remixicon.glyph.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.glyph.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\README.md",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\README.md"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\bower.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\composer.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\license.md",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\license.md"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\models\\dom\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\models\\dom\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\package.json"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\accordion\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\accordion\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\assets\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\105.png.webp",
+      "PackagePath": "staticwebassets\\uploads\\105.png.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\11.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\11.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\13.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\13.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\15-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\15-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\440749d4-37e9-4d7d-be87-d5d9dd348378_Vinawind-5-canh-QT-1500X-1-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\440749d4-37e9-4d7d-be87-d5d9dd348378_Vinawind-5-canh-QT-1500X-1-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\4531e77c-8366-4595-9fa7-e3fe819e7864_11.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\4531e77c-8366-4595-9fa7-e3fe819e7864_11.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\47ad4836-ccf3-42cd-8a8b-17e6a0c18755_Vinawind-5-canh-QT-1500X-1-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\47ad4836-ccf3-42cd-8a8b-17e6a0c18755_Vinawind-5-canh-QT-1500X-1-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\4f3bb739-41ba-41e3-aee4-3e0ccca8f334_13.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\4f3bb739-41ba-41e3-aee4-3e0ccca8f334_13.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\529bcdbb-5b5c-4326-a71c-7c968490bfb0_4f3bb739-41ba-41e3-aee4-3e0ccca8f334_13.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\529bcdbb-5b5c-4326-a71c-7c968490bfb0_4f3bb739-41ba-41e3-aee4-3e0ccca8f334_13.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\5bbbebd8-1add-4396-925e-8d6b387c5b49_b_m56pr-bach-kim-1.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\5bbbebd8-1add-4396-925e-8d6b387c5b49_b_m56pr-bach-kim-1.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\69e31335-2736-4e14-b57b-ec5ca7b33482_105.png.webp",
+      "PackagePath": "staticwebassets\\uploads\\69e31335-2736-4e14-b57b-ec5ca7b33482_105.png.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\7b576dde-6a14-402e-90ad-268eff477921_Vinawind-5-canh-QT-1500X-3-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\7b576dde-6a14-402e-90ad-268eff477921_Vinawind-5-canh-QT-1500X-3-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\823f71c9-3744-4bc8-a9ee-e4ba592ff43e_b_n56yg-dongco.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\823f71c9-3744-4bc8-a9ee-e4ba592ff43e_b_n56yg-dongco.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\85430d2c-670b-44f1-a55f-b108d0b8ffb2_quattrandiencothongnhatvinawin-b7c29f21-1519-4080-913a-28c594dd4a8e.webp",
+      "PackagePath": "staticwebassets\\uploads\\85430d2c-670b-44f1-a55f-b108d0b8ffb2_quattrandiencothongnhatvinawin-b7c29f21-1519-4080-913a-28c594dd4a8e.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\9679a15a-2ffe-41e5-9c1f-25b14cf32fbf_Quat-Tran-KDK-N56YG-1-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\9679a15a-2ffe-41e5-9c1f-25b14cf32fbf_Quat-Tran-KDK-N56YG-1-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\9a975c58-eb60-4d36-921c-fd131aaefa16_4f3bb739-41ba-41e3-aee4-3e0ccca8f334_13.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\9a975c58-eb60-4d36-921c-fd131aaefa16_4f3bb739-41ba-41e3-aee4-3e0ccca8f334_13.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\Banner-quat-tran.png",
+      "PackagePath": "staticwebassets\\uploads\\Banner-quat-tran.png"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\Daikisu-DC50B31GD-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\Daikisu-DC50B31GD-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\Quat-Tran-KDK-N56YG-1-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\Quat-Tran-KDK-N56YG-1-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\Quat-Tran-KDK-N56YG-2-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\Quat-Tran-KDK-N56YG-2-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\Quat-Tran-KDK-N56YG-3-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\Quat-Tran-KDK-N56YG-3-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\Vinawind-5-canh-QT-1500X-1-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\Vinawind-5-canh-QT-1500X-1-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\Vinawind-5-canh-QT-1500X-2-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\Vinawind-5-canh-QT-1500X-2-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\Vinawind-5-canh-QT-1500X-3-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\Vinawind-5-canh-QT-1500X-3-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\a192948f-5a5f-464b-a567-27a601a8547e_Quat-Tran-KDK-N56YG-2-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\a192948f-5a5f-464b-a567-27a601a8547e_Quat-Tran-KDK-N56YG-2-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\a4f01e1a-dd7f-430d-9768-492771f75df5_7b576dde-6a14-402e-90ad-268eff477921_Vinawind-5-canh-QT-1500X-3-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\a4f01e1a-dd7f-430d-9768-492771f75df5_7b576dde-6a14-402e-90ad-268eff477921_Vinawind-5-canh-QT-1500X-3-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\b_m56pr-bach-kim-1.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\b_m56pr-bach-kim-1.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\b_n56yg-dongco.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\b_n56yg-dongco.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\banner2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\banner3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\bf5eb06c-dd6d-41a5-8e6d-eac78d93ad63_Quat-Tran-KDK-N56YG-3-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\bf5eb06c-dd6d-41a5-8e6d-eac78d93ad63_Quat-Tran-KDK-N56YG-3-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\c0d19017-3db6-426c-9df9-a05ea6cbb9ff_quat-tran-panasonic-f-48czl-4 (1).webp",
+      "PackagePath": "staticwebassets\\uploads\\c0d19017-3db6-426c-9df9-a05ea6cbb9ff_quat-tran-panasonic-f-48czl-4 (1).webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\c3c4616a-228e-4964-a692-ad7fa985486d_quattrandiencothongnhatvinawin-9c02cfb6-786d-4e09-a5c9-385a401bcc5a.webp",
+      "PackagePath": "staticwebassets\\uploads\\c3c4616a-228e-4964-a692-ad7fa985486d_quattrandiencothongnhatvinawin-9c02cfb6-786d-4e09-a5c9-385a401bcc5a.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\d0eaacd6-0d89-4cb7-b06a-41c921e0dad6_823f71c9-3744-4bc8-a9ee-e4ba592ff43e_b_n56yg-dongco.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\d0eaacd6-0d89-4cb7-b06a-41c921e0dad6_823f71c9-3744-4bc8-a9ee-e4ba592ff43e_b_n56yg-dongco.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\d1f87097-7a77-4215-be5d-17aa1f8b68da_quat-tran-panasonic-f-48czl-3.webp",
+      "PackagePath": "staticwebassets\\uploads\\d1f87097-7a77-4215-be5d-17aa1f8b68da_quat-tran-panasonic-f-48czl-3.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\d4f1599a-1f00-4ac4-a5e0-ce908685dde6_quattrandiencothongnhatvinawin-4bf7d236-7f64-4816-93f0-a88db7264ff6.webp",
+      "PackagePath": "staticwebassets\\uploads\\d4f1599a-1f00-4ac4-a5e0-ce908685dde6_quattrandiencothongnhatvinawin-4bf7d236-7f64-4816-93f0-a88db7264ff6.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\d581ae7a-e5bb-4dea-9d22-09ee1f30fa74_quat-tran-panasonic-f-48czl-4.webp",
+      "PackagePath": "staticwebassets\\uploads\\d581ae7a-e5bb-4dea-9d22-09ee1f30fa74_quat-tran-panasonic-f-48czl-4.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\daaa9d28-d350-4147-a41c-657affb926d5_medium_kvb1678161276.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\daaa9d28-d350-4147-a41c-657affb926d5_medium_kvb1678161276.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\e7598030-d034-49b1-97b2-ff6b4edbd5e6_4f3bb739-41ba-41e3-aee4-3e0ccca8f334_13.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\e7598030-d034-49b1-97b2-ff6b4edbd5e6_4f3bb739-41ba-41e3-aee4-3e0ccca8f334_13.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\e8c1d89c-ec72-491f-bc58-74256b8f1912_f-80zbr.webp",
+      "PackagePath": "staticwebassets\\uploads\\e8c1d89c-ec72-491f-bc58-74256b8f1912_f-80zbr.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\ee6c1d7c-a859-45cf-a91c-ee28adb8e478_15-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\ee6c1d7c-a859-45cf-a91c-ee28adb8e478_15-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\eecfefbb-3d3b-48e9-9843-6517017a3d17_ffa7c646e3e346bd1ff2.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\eecfefbb-3d3b-48e9-9843-6517017a3d17_ffa7c646e3e346bd1ff2.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\efbf4739-9e6e-4e10-9b9b-719cef11a764_quat-tran-panasonic-f-48czl-6.webp",
+      "PackagePath": "staticwebassets\\uploads\\efbf4739-9e6e-4e10-9b9b-719cef11a764_quat-tran-panasonic-f-48czl-6.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\f-56xpg-3.webp",
+      "PackagePath": "staticwebassets\\uploads\\f-56xpg-3.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\f-56xpg-4.webp",
+      "PackagePath": "staticwebassets\\uploads\\f-56xpg-4.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\f-80zbr.webp",
+      "PackagePath": "staticwebassets\\uploads\\f-80zbr.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\f1b36b67-46ca-4383-9f21-3732ceab6cf8_5bbbebd8-1add-4396-925e-8d6b387c5b49_b_m56pr-bach-kim-1.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\f1b36b67-46ca-4383-9f21-3732ceab6cf8_5bbbebd8-1add-4396-925e-8d6b387c5b49_b_m56pr-bach-kim-1.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\f3a3f848-002b-4aef-bd3d-e712b994dee9_c3c4616a-228e-4964-a692-ad7fa985486d_quattrandiencothongnhatvinawin-9c02cfb6-786d-4e09-a5c9-385a401bcc5a.webp",
+      "PackagePath": "staticwebassets\\uploads\\f3a3f848-002b-4aef-bd3d-e712b994dee9_c3c4616a-228e-4964-a692-ad7fa985486d_quattrandiencothongnhatvinawin-9c02cfb6-786d-4e09-a5c9-385a401bcc5a.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\fb050080-9216-4e27-9a94-5a1e32fb9488_Daikisu-DC50B31GD-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\fb050080-9216-4e27-9a94-5a1e32fb9488_Daikisu-DC50B31GD-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\fb605397-532d-43c7-bba1-93437ac41dab_Vinawind-5-canh-QT-1500X-2-300x300.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\fb605397-532d-43c7-bba1-93437ac41dab_Vinawind-5-canh-QT-1500X-2-300x300.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\ffa7c646e3e346bd1ff2.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\ffa7c646e3e346bd1ff2.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\medium_kvb1678161276.jpg.webp",
+      "PackagePath": "staticwebassets\\uploads\\medium_kvb1678161276.jpg.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\qt1500x.jpg",
+      "PackagePath": "staticwebassets\\uploads\\qt1500x.jpg"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quat-tran-panasonic-f-48czl-3.webp",
+      "PackagePath": "staticwebassets\\uploads\\quat-tran-panasonic-f-48czl-3.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quat-tran-panasonic-f-48czl-4 (1).webp",
+      "PackagePath": "staticwebassets\\uploads\\quat-tran-panasonic-f-48czl-4 (1).webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quat-tran-panasonic-f-48czl-4.webp",
+      "PackagePath": "staticwebassets\\uploads\\quat-tran-panasonic-f-48czl-4.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quat-tran-panasonic-f-48czl-6.webp",
+      "PackagePath": "staticwebassets\\uploads\\quat-tran-panasonic-f-48czl-6.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quat-tran-vinawind-qt-1400s-3.webp",
+      "PackagePath": "staticwebassets\\uploads\\quat-tran-vinawind-qt-1400s-3.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quat-tran-vinawind-qt-1400s-6.webp",
+      "PackagePath": "staticwebassets\\uploads\\quat-tran-vinawind-qt-1400s-6.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quat-tran-vinawind-qt-1400s-remote-5.webp",
+      "PackagePath": "staticwebassets\\uploads\\quat-tran-vinawind-qt-1400s-remote-5.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quattrandiencothongnhatvinawin-4bf7d236-7f64-4816-93f0-a88db7264ff6.webp",
+      "PackagePath": "staticwebassets\\uploads\\quattrandiencothongnhatvinawin-4bf7d236-7f64-4816-93f0-a88db7264ff6.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quattrandiencothongnhatvinawin-9c02cfb6-786d-4e09-a5c9-385a401bcc5a.webp",
+      "PackagePath": "staticwebassets\\uploads\\quattrandiencothongnhatvinawin-9c02cfb6-786d-4e09-a5c9-385a401bcc5a.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quattrandiencothongnhatvinawin-b7c29f21-1519-4080-913a-28c594dd4a8e.webp",
+      "PackagePath": "staticwebassets\\uploads\\quattrandiencothongnhatvinawin-b7c29f21-1519-4080-913a-28c594dd4a8e.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quattranpanasonicf56xpgw1000x1.webp",
+      "PackagePath": "staticwebassets\\uploads\\quattranpanasonicf56xpgw1000x1.webp"
+    },
+    {
+      "Id": "D:\\vs studio\\BTL\\QuatTran.Web\\wwwroot\\uploads\\quattranvinawindqt1400xcanhnho.webp",
+      "PackagePath": "staticwebassets\\uploads\\quattranvinawindqt1400xcanhnho.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.QuatTran.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.QuatTran.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.QuatTran.Web.props",
+      "PackagePath": "build\\QuatTran.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.QuatTran.Web.props",
+      "PackagePath": "buildMultiTargeting\\QuatTran.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.QuatTran.Web.props",
+      "PackagePath": "buildTransitive\\QuatTran.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

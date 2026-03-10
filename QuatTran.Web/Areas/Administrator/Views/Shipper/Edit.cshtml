@@ -1,0 +1,21 @@
+﻿@model QuatTran.Application.DTOs.ShipperDto
+@{
+    ViewData["Title"] = "Sửa Shipper";
+}
+<h2>Sửa Shipper</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="ShipperId" />
+    <div class="mb-3">
+        <label class="form-label">Tên công ty</label>
+        <input asp-for="CompanyName" class="form-control" />
+        <span asp-validation-for="CompanyName" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Số điện thoại</label>
+        <input asp-for="Phone" class="form-control" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-success">Cập nhật</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

@@ -1,0 +1,32 @@
+﻿@model QuatTran.Application.DTOs.PaymentDto
+
+@{
+    ViewData["Title"] = "Chi tiết thanh toán";
+}
+
+<h2 class="text-primary mb-3">Chi tiết thanh toán</h2>
+
+<div class="card">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Mã thanh toán:</dt>
+            <dd class="col-sm-9">@Model.PaymentId</dd>
+
+            <dt class="col-sm-3">Đơn hàng:</dt>
+            <dd class="col-sm-9">@Model.OrderId</dd>
+
+            <dt class="col-sm-3">Số tiền:</dt>
+            <dd class="col-sm-9">@Model.Amount?.ToString("N0") VNĐ</dd>
+
+            <dt class="col-sm-3">Phương thức:</dt>
+            <dd class="col-sm-9">@Model.PaymentMethod</dd>
+
+            <dt class="col-sm-3">Trạng thái:</dt>
+            <dd class="col-sm-9">@Model.PaymentStatus</dd>
+
+            <dt class="col-sm-3">Ngày thanh toán:</dt>
+            <dd class="col-sm-9">@Model.PaymentDate?.ToString("dd/MM/yyyy HH:mm")</dd>
+        </dl>
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </div>
+</div>

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<QuatTran.Application.DTOs.UserDto>
+@{
+    ViewData["Title"] = "Quản lý người dùng";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a class="btn btn-primary mb-3" asp-action="Create">+ Thêm người dùng mới</a>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Họ tên</th>
+            <th>Vai trò</th>
+            <th>Ngày tạo</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var u in Model)
+        {
+            <tr>
+                <td>@u.Email</td>
+                <td>@u.FullName</td>
+                <td>@u.Role</td>
+                <td>@u.CreatedAt?.ToString("dd/MM/yyyy")</td>
+                <td>
+                    <a class="btn btn-info btn-sm" asp-action="Details" asp-route-id="@u.UserId">Chi tiết</a>
+                    <a class="btn btn-warning btn-sm" asp-action="Edit" asp-route-id="@u.UserId">Sửa</a>
+                    <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@u.UserId">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

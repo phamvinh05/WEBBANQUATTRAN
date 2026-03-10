@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Thêm ảnh phụ";
+}
+
+<h1>Thêm ảnh phụ cho sản phẩm</h1>
+
+<form asp-action="UploadImages" enctype="multipart/form-data">
+    <input type="hidden" name="productId" value="@ViewBag.ProductId" />
+
+    <div class="mb-3">
+        <label>Chọn ảnh</label>
+        <input type="file" name="files" class="form-control" multiple />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Tải lên</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</form>

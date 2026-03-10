@@ -1,0 +1,17 @@
+D:\vs studio\BTL\QuatTran.Infrastructure\bin\Debug\net9.0\QuatTran.Infrastructure.deps.json
+D:\vs studio\BTL\QuatTran.Infrastructure\bin\Debug\net9.0\QuatTran.Infrastructure.runtimeconfig.json
+D:\vs studio\BTL\QuatTran.Infrastructure\bin\Debug\net9.0\QuatTran.Infrastructure.dll
+D:\vs studio\BTL\QuatTran.Infrastructure\bin\Debug\net9.0\QuatTran.Infrastructure.pdb
+D:\vs studio\BTL\QuatTran.Infrastructure\bin\Debug\net9.0\QuatTran.Domain.dll
+D:\vs studio\BTL\QuatTran.Infrastructure\bin\Debug\net9.0\QuatTran.Domain.pdb
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\QuatTran.Infrastructure.csproj.AssemblyReference.cache
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\QuatTran.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\QuatTran.Infrastructure.AssemblyInfoInputs.cache
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\QuatTran.Infrastructure.AssemblyInfo.cs
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\QuatTran.Infrastructure.csproj.CoreCompileInputs.cache
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\QuatTran.48BC0EA0.Up2Date
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\QuatTran.Infrastructure.dll
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\refint\QuatTran.Infrastructure.dll
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\QuatTran.Infrastructure.pdb
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\QuatTran.Infrastructure.genruntimeconfig.cache
+D:\vs studio\BTL\QuatTran.Infrastructure\obj\Debug\net9.0\ref\QuatTran.Infrastructure.dll

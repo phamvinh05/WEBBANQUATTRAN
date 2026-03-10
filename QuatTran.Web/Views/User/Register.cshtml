@@ -1,0 +1,29 @@
+﻿@model QuatTran.Application.DTOs.UserDto
+@{
+    ViewBag.Title = "Đăng ký";
+}
+<h2>Đăng ký tài khoản</h2>
+<form asp-action="Register" method="post">
+    <div class="form-group">
+        <label asp-for="FullName">Họ tên</label>
+        <input asp-for="FullName" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Email">Email</label>
+        <input asp-for="Email" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Mật khẩu</label>
+        <input asp-for="PasswordHash" type="password" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label asp-for="Phone">Điện thoại</label>
+        <input asp-for="Phone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Address">Địa chỉ</label>
+        <input asp-for="Address" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-outline-success mt-2">Đăng ký</button>
+    <a asp-action="Login" class="btn btn-link">Quay lại đăng nhập</a>
+</form>

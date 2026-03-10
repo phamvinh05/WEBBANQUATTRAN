@@ -1,0 +1,24 @@
+﻿@model QuatTran.Application.DTOs.UserDto
+@{
+    ViewData["Title"] = "Hồ sơ của tôi";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="card mb-3">
+    <div class="card-body">
+        <h4>@Model.FullName</h4>
+        <p><strong>Email:</strong> @Model.Email</p>
+        <p><strong>Quyền:</strong> @Model.Role</p>
+        <p><strong>SĐT:</strong> @Model.Phone</p>
+        <p><strong>Địa chỉ:</strong> @Model.Address</p>
+        <p><strong>Ngày tạo:</strong> @Model.CreatedAt?.ToString("dd/MM/yyyy")</p>
+
+        <a asp-action="EditProfile" class="btn btn-primary mt-3">Chỉnh sửa thông tin</a>
+    </div>
+</div>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success mt-2">@TempData["SuccessMessage"]</div>
+}

@@ -1,0 +1,37 @@
+﻿@model IEnumerable<QuatTran.Application.DTOs.PaymentDto>
+
+@{
+    ViewData["Title"] = "Danh sách thanh toán";
+}
+
+<h2 class="text-primary mb-3">Danh sách thanh toán</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Mã</th>
+            <th>Đơn hàng</th>
+            <th>Số tiền</th>
+            <th>Phương thức</th>
+            <th>Trạng thái</th>
+            <th>Ngày thanh toán</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.PaymentId</td>
+                <td>@p.OrderId</td>
+                <td>@p.Amount?.ToString("N0") VNĐ</td>
+                <td>@p.PaymentMethod</td>
+                <td>@p.PaymentStatus</td>
+                <td>@p.PaymentDate?.ToString("dd/MM/yyyy HH:mm")</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@p.PaymentId" class="btn btn-info btn-sm">Chi tiết</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
